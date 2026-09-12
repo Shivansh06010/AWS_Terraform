@@ -1,0 +1,1 @@
+s3_bucket_name = "shivansh-s3-bucket-06010"
