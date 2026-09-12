@@ -20,3 +20,18 @@ override.tf.json
 
 # Plan files
 *.plan
+
+# Terraform lock file
+.terraform.lock.hcl
+
+# Backup files
+*.backup
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
